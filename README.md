@@ -20,3 +20,4 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FandresenaJasmin&langs_count=8&layout=compact&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
 
+[![FandresenaJasmin's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=FandresenaJasmin)](https://github.com/anuraghazra/github-readme-stats)
